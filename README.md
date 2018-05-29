@@ -13,11 +13,11 @@
 * This is a project designed for a mental health counseling business. It keeps track of patient information through a local database and displays information back to user, no  server is required. All graphics were created by myself. Program runs and many features are already complete. More will be added in the near future.
 
 ##  Main Screen
-<p align="center"> <https://www.libsdl.org/download-2.0.php"> <img width = "300px" src="https://github.com/RobMisener/Riverview-Counseling-LLC/raw/master/ReadMeImages/1.png" /> </a> </p>
+<p align="center"> <https://www.libsdl.org/download-2.0.php"> <img width = "300px" src="https://github.com/RobMisener/Riverview-Counseling-LLC/raw/master/ReadMePhotos/1.png" /> </a> </p>
 ##  Text Entry Screen
-<p align="center"> <https://www.libsdl.org/download-2.0.php"> <img width = "300px" src="https://github.com/RobMisener/GRiverview-Counseling-LLC/raw/master/ReadMeImages/2.png" /> </a> </p>
+<p align="center"> <https://www.libsdl.org/download-2.0.php"> <img width = "300px" src="https://github.com/RobMisener/Riverview-Counseling-LLC/raw/master/ReadMePhotos/2.png" /> </a> </p>
 ##  Screen that brings up database
-<p align="center"> <https://www.libsdl.org/download-2.0.php"> <img width = "300px" src="https://github.com/RobMisener/GRiverview-Counseling-LLC/raw/master/ReadMeImages/3.png" /> </a> </p>
+<p align="center"> <https://www.libsdl.org/download-2.0.php"> <img width = "300px" src="https://github.com/RobMisener/Giverview-Counseling-LLC/raw/master/ReadMePhotos/3.png" /> </a> </p>
 
 ##  Completed
 * Text textures
