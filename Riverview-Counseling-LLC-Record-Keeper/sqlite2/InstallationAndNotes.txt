@@ -1,0 +1,10 @@
+
+
+Link to Visual Studio Command Line 
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\LaunchDevCmd.bat"
+
+Useful Link : How to Install (make Library File)
+https://raginginverno.wordpress.com/2013/01/23/welcome/
+
+Good reference (select statements)
+http://zetcode.com/db/sqlitec/
