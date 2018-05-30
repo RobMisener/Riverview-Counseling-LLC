@@ -18,7 +18,7 @@
 ##  Main Screen
 <p align="center"> <img width = "700px" src="https://github.com/RobMisener/Riverview-Counseling-LLC/raw/master/ReadMePhotos/1.PNG" /> </p>
 
-##  Patient Information Entr Screen
+##  Patient Information Entry Screen
 <p align="center"> <img width = "700px" src="https://github.com/RobMisener/Riverview-Counseling-LLC/raw/master/ReadMePhotos/2.PNG" /> </p>
 
 ##  List Contents of Database Screen
