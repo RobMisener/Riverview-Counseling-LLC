@@ -6,7 +6,7 @@
 * Application for mental health record keeping (C++, SDL, SQLite) - Work In Progress
 
 ## Installation:
-* Please download the release folder to run the exe. Current Features: As of now, you can enter in patient information, store it, and retrieve the information for display on screen. It currently has a main menu, a text entry screen, and a screen that displays the contents of the database. 
+* Please build and run application. If there are any issues you can contact me and I can help. Current Features: As of now, you can enter in patient information, store it, and retrieve the information for display on screen. It currently has a main menu, a text entry screen, and a screen that displays the contents of the database. 
 
 ## Languages: 
 * C++, SQLite, SDL
