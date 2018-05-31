@@ -16,7 +16,7 @@
 * SQLite is a self-contained, serverless, SQL database engine. It is used in many mobile applications for local database storage and also in many professional games such as Rome Total War II, as a means to store saved data.
 
 ## Description: 
-* This is a project designed for a mental health counseling business. It keeps track of patient information through a local SQLite database that is stored in a file in the folder. The program also displays the contents of the datbase back to the user if the user chooses. 
+* This is a project designed for a mental health counseling business. It keeps track of patient information through a local SQLite database that is stored in a file in the folder. The program also displays the contents of the database back to the user if the user chooses. 
 <p align="center"> <img width = "700px" src="https://github.com/RobMisener/Riverview-Counseling-LLC/raw/master/ReadMePhotos/databaseDisplayRAM.gif" /> </p>
 
 * No  server is required for an SQLite database as the database is stored in a local file in the program folder that does not require any internet connection. All graphics were created by myself. More content will be added in the near future.
