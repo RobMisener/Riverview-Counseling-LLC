@@ -1,6 +1,5 @@
 
-
-# #Riverview Counseling: A Patient Database System
+## Riverview Counseling: A Patient Database System
 #### By: Robert Misener
 <a href="http://www.robertmisener.com"> My Portfolio Website </a>
 * Application for mental health record keeping (C++, SDL, SQLite) - Work In Progress
