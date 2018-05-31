@@ -3,6 +3,7 @@
 #### By: Robert Misener
 <a href="http://www.robertmisener.com"> My Portfolio Website </a>
 * Application for mental health record keeping (C++, SDL, SQLite) - Work In Progress
+<p align="center"> <img width = "700px" src="https://github.com/RobMisener/Riverview-Counseling-LLC/raw/master/ReadMePhotos/textEnryRAM.gif" /> </p>
 
 ## Installation:
 * Please build and run application. If there are any issues you can contact me and I can help. Current Features: As of now, you can enter in patient information, store it, and retrieve the information for display on screen. It currently has a main menu, a text entry screen, and a screen that displays the contents of the database. 
