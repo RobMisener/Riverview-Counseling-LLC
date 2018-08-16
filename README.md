@@ -2,7 +2,8 @@
 ## Riverview Counseling: A Patient Database System
 #### By: Robert Misener
 <a href="http://www.robertmisener.com"> My Portfolio Website </a>
-* Application for mental health record keeping (C++, SDL, SQLite) - Work In Progress
+* Application for mental health record keeping (C++, SDL, SQLite) 
+* This program been heavily modified since, customer has given permission to display source code online for this early version.
 * Please allow time for GIF's to load on this readme page to see in-action examples
 <p align="center"> <img width = "700px" src="https://github.com/RobMisener/Riverview-Counseling-LLC/raw/master/ReadMePhotos/textEnryRAM.gif" /> </p>
 
